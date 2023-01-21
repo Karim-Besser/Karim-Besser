@@ -4,8 +4,8 @@ Hi my name is Karim Besser
 **Programmer, I do Python, C++, Swift, HTML, CSS and a little of JavaScript.**
 ---------------------------------------------------------------------------------------
 
-* 🖥️  See my portfolio at [Karimb.dev](http://Karimb.dev)
-* 🚀  I'm currently working on [Bestbanana](http://bestbanana-ink.github.io/)
+* 🖥️  See my portfolio at [Karimb.dev](https://Karimb.dev)
+* 🚀  I'm currently working on [Bestbanana](https://bestbanana-ink.github.io/)
 
 ### Skills:
 
