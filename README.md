@@ -1,7 +1,7 @@
 Hi my name is **Karim Besser** 
 ====================================================================================================================================
 
-**I do Python, C++, Swift, HTML, CSS and a little of JavaScript.**
+**I know Python, C++, Swift, HTML, CSS and a little of JavaScript.**
 ---------------------------------------------------------------------------------------
 
 * 🖥️  See my portfolio at [Karimb.dev](https://Karimb.dev)
